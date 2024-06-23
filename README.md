@@ -10,14 +10,22 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
-I'm a passionate developer from [Your Country]. I love coding, learning new technologies, and contributing to open source.
+I love coding, learning new technologies, and contributing to open source. I love building things and sharing knowledge.
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Your Learning Focus]
-- 👯 I’m looking to collaborate on [Your Collaboration Interest]
-- 💬 Ask me about [Your Expertise]
+- 👀 I’m studying CSE-Cloud Computing
+- 🔭 I’m currently working on my minor project.
+- 🌱 I’m currently learning coding and devops tools.
+- 👯 I’m looking to collaborate on projects releated to cloud.
+- 💬 Ask me about releated to cloud computing
 - 📫 How to reach me: nagarahul2004@gmail.com
-- ⚡ Fun fact: [Something Interesting About You]
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul-200&show_icons=true&theme=algolia" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-200&theme=algolia" alt="GitHub Streak" />
+</p>
 
 <!-- Top Languages -->
 ## Top Languages
@@ -33,8 +41,8 @@ I'm a passionate developer from [Your Country]. I love coding, learning new tech
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java" />
-  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/-cloud computing-05122A?style=flat&logo=cloud computing" />
+  <img src="https://img.shields.io/badge/-Devops-05122A?style=flat&logo=Devops" />
   <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" />
   <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3" />
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
