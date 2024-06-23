@@ -31,7 +31,7 @@ I love coding, learning new technologies, and contributing to open source. I lov
 ## Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-200&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <!-- Skills -->
