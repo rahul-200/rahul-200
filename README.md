@@ -2,30 +2,22 @@
 
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=1ABC9C&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Full-Stack+Developer;I+Love+Coding+and+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+and+collaboration!;Let's+connect+%F0%9F%91%8B" />
 </p>
 
 <!-- Introduction -->
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Rahul 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
-I'm a passionate developer from [Your Country]. I specialize in full-stack development and enjoy exploring new technologies.
+I'm a passionate developer from [Your Country]. I love coding, learning new technologies, and contributing to open source.
 
 - 🔭 I’m currently working on [Your Current Project]
 - 🌱 I’m currently learning [Your Learning Focus]
+- 👯 I’m looking to collaborate on [Your Collaboration Interest]
 - 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Email or LinkedIn]
-- 😄 Pronouns: [Your Pronouns]
+- 📫 How to reach me: nagarahul2004@gmail.com
 - ⚡ Fun fact: [Something Interesting About You]
-
-<!-- GitHub Stats -->
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
-</p>
 
 <!-- Top Languages -->
 ## Top Languages
@@ -53,30 +45,19 @@ I'm a passionate developer from [Your Country]. I specialize in full-stack devel
 ## Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+  <a href="www.linkedin.com/in/boggavarapu-venkata-naga-rahul-45a861252" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
+  <a href="https://x.com/RAHULBOGGAVARA3" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/rahul-200" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=GitHub&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://yourblog.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=Blogger&logoColor=white" alt="Blog">
   </a>
 </p>
 
-<!-- Latest Blog Posts -->
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Post 1](https://yourblog.com/post1)
-- [Post 2](https://yourblog.com/post2)
-- [Post 3](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
 
 <!-- Profile Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=1ABC9C&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Have+a+great+day!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Thanks+for+visiting!;Have+a+great+day!+%F0%9F%98%8A" />
 </p>
