@@ -2,40 +2,40 @@
 
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Developer;I+love+coding+and+collaboration!;Let's+connect+%F0%9F%91%8B" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:1ABC9C&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontColor=fff" />
 </p>
 
 <!-- Introduction -->
-## Hi there, I'm [Your Name] 👋
+## Hello, I'm [Your Name] 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
 
-I'm a passionate developer from [Your Country]. I love coding, learning new technologies, and contributing to open source.
+I'm a passionate developer from [Your Country]. I love building things and sharing knowledge.
 
 - 🔭 I’m currently working on [Your Current Project]
 - 🌱 I’m currently learning [Your Learning Focus]
-- 👯 I’m looking to collaborate on [Your Collaboration Interest]
 - 💬 Ask me about [Your Expertise]
 - 📫 How to reach me: [Your Email or LinkedIn]
+- 😄 Pronouns: [Your Pronouns]
 - ⚡ Fun fact: [Something Interesting About You]
 
 <!-- GitHub Stats -->
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=algolia" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=algolia" alt="GitHub Streak" />
 </p>
 
 <!-- Top Languages -->
-## Top Languages
+## 🔝 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=algolia" alt="Top Languages" />
 </p>
 
 <!-- Skills -->
-## Skills
+## 🛠️ Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
@@ -50,7 +50,7 @@ I'm a passionate developer from [Your Country]. I love coding, learning new tech
 </p>
 
 <!-- Connect with me -->
-## Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yourusername" target="_blank">
@@ -68,7 +68,7 @@ I'm a passionate developer from [Your Country]. I love coding, learning new tech
 </p>
 
 <!-- Latest Blog Posts -->
-## Latest Blog Posts
+## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Post 1](https://yourblog.com/post1)
@@ -78,5 +78,5 @@ I'm a passionate developer from [Your Country]. I love coding, learning new tech
 
 <!-- Profile Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Thanks+for+visiting!;Have+a+great+day!+%F0%9F%98%8A" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1ABC9C,100:FF5733&height=150&section=footer&fontSize=20&text=Thanks%20for%20visiting!&fontColor=fff" />
 </p>
