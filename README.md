@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 <!-- Profile Header -->
 <p align="center">
@@ -8,7 +8,7 @@
 <!-- Introduction -->
 ## Hi there, I'm Rahul 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=rahul-200&color=blue)
 
 I love coding, learning new technologies, and contributing to open source. I love building things and sharing knowledge.
 
@@ -61,6 +61,9 @@ I love coding, learning new technologies, and contributing to open source. I lov
   </a>
   <a href="https://github.com/rahul-200" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=GitHub&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.hackerrank.com/profile/RA2111028010192" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerRank-333?style=flat&logo=GitHub&logoColor=white" alt="GitHub">
   </a>
 </p>
 
